@@ -1,3 +1,7 @@
+@font-face {
+    font-family:"Google Sans";
+    src: url(./Assests/Image/fonts/GoogleSans-Bold.ttf);
+}
 *{
     margin: 0px;
     padding: 0px;
